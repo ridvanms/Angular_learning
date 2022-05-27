@@ -31,3 +31,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 adding some stuff , becouse there has much stuff which can not be uplouded:
 
 -adding some elements in server at app ; in terminal (ng g c servers)
+
+-adding success-alert,warning-alert(ng g c success-alert ; ng g c warning-alert)
