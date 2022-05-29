@@ -1,0 +1,15 @@
+<button class="btn btn-primary">Add server</button>
+
+<div>
+  <hr />
+</div>
+<button
+  style="color: blue"
+  [disabled]="!allowNewServer"
+  (click)="onCreateServer()"
+>
+  Add server
+</button>
+
+<app-server></app-server>
+<app-server></app-server>
